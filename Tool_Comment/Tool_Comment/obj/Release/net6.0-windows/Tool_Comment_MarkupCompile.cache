@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\ToanHH\ToolComment\Tool_Comment\Tool_Comment\obj\Debug\net6.0-windows\
+C:\ToanHH\ToolComment\Tool_Comment\Tool_Comment\obj\Release\net6.0-windows\
 Tool_Comment
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\ToanHH\ToolComment\Tool_Comment\Tool_Comment\App.xaml
 11407045341
 
